@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I train and infer **LLMs on Ascend NPUs**. My current research interest is **efficient AI**, with a particular focus on **sparse attention**.
+
+I am both a researcher and an engineer. I believe that in the era of LLMs, while the idea is important, the ability to **quickly and efficiently implement** that idea is even more vital.
