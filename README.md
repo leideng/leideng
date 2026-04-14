@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 - 🚀 I train and infer LLMs on Ascend NPUs. 
 - 🧠 My current research interest is efficient AI, with a particular focus on sparse attention.
-- 🎓 I am both a researcher and an engineer 🛠️. 
+- 🎓 I am both a researcher and an engineer 🛠️.
+- 🔧 I design algorithms and build systems that work.
 - ⚡ I believe that in the LLM era, while an idea is important, the ability to quickly and efficiently implement that idea is even more vital.
